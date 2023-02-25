@@ -21,3 +21,6 @@ Algebra relacional
 - uniones
 - joins
 - agrupación
+
+
+[PREVIOUS](../data-adquisition/notas.md) [HOME](../README.md)
