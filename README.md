@@ -5,5 +5,5 @@ Herramientas:
 - Librería de Pandas
 
 Índice: 
-- [Data Adquisition](data-adquisition/notas.md)
-- [Data Analysis](data-analysis/notas.md)
+1. [Data Adquisition](data-adquisition/notas.md)
+2. [Data Analysis](data-analysis/notas.md)
